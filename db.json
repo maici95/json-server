@@ -1,0 +1,30 @@
+{
+	"users": [],
+	"test": [
+		{
+			"username": "yo boi",
+			"id": "1"
+		},
+		{
+			"username": "hgaha",
+			"id": "2",
+			"test": "wef"
+		},
+		{
+			"username": "yo boi",
+			"id": "3"
+		},
+		{
+			"username": "yo boi",
+			"id": "4"
+		},
+		{
+			"username": "yo boi",
+			"id": "5"
+		},
+		{
+			"username": "yo boi",
+			"id": "6"
+		}
+	]
+}
